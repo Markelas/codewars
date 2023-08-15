@@ -1,2 +1,2 @@
 # codewars
-Here i add in the file solved tasks from Codewars
+Here i add solved tasks from Codewars to the file
